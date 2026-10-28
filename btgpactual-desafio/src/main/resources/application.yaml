@@ -1,0 +1,15 @@
+spring:
+  application:
+    name: btgpactual-desafio
+
+
+  data:
+    mongodb:
+      authentication-database: admin
+      auto-index-creation: true
+      database: btgpactualdb
+      host: localhost
+      username: admin
+      password: 123
+      port: 27018
+
